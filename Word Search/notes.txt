@@ -1,0 +1,5 @@
+Word Search generator
+https://www.superteacherworksheets.com/generator-word-search.html
+
+Random word generator
+https://www.randomlists.com/random-words?dup=false&qty=18
