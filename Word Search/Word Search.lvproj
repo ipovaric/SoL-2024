@@ -11,6 +11,9 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Solvers - Experimental" Type="Folder">
+			<Item Name="Solver1.vi" Type="VI" URL="../Solvers - Experimental/Solver1.vi"/>
+		</Item>
 		<Item Name="support" Type="Folder">
 			<Item Name="Check Indices for Straight Continuous Line.vi" Type="VI" URL="../support/Check Indices for Straight Continuous Line.vi"/>
 			<Item Name="Example Solver.vi" Type="VI" URL="../support/Example Solver.vi"/>
@@ -18,6 +21,7 @@
 			<Item Name="Solutions--map.ctl" Type="VI" URL="../support/Solutions--map.ctl"/>
 		</Item>
 		<Item Name="Solver.vi" Type="VI" URL="../Solver.vi"/>
+		<Item Name="TestWordSearch.vi" Type="VI" URL="../TestWordSearch.vi"/>
 		<Item Name="Word Search.vi" Type="VI" URL="../support/Word Search.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
