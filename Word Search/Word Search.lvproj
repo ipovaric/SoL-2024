@@ -19,14 +19,14 @@
 			<Item Name="Example Solver.vi" Type="VI" URL="../support/Example Solver.vi"/>
 			<Item Name="Letter Index--cluster.ctl" Type="VI" URL="../support/Letter Index--cluster.ctl"/>
 			<Item Name="Solutions--map.ctl" Type="VI" URL="../support/Solutions--map.ctl"/>
-			<Item Name="Solver_001.vi" Type="VI" URL="../Solver_001.vi"/>
+			<Item Name="Solver_001.vi" Type="VI" URL="../support/Solver_001.vi"/>
+			<Item Name="Solver_002.vi" Type="VI" URL="../support/Solver_002.vi"/>
 		</Item>
 		<Item Name="word lists and grids" Type="Folder" URL="../word lists and grids">
 			<Property Name="NI.DISK" Type="Bool">true</Property>
 		</Item>
 		<Item Name="Solver Selector.ctl" Type="VI" URL="../support/Solver Selector.ctl"/>
 		<Item Name="Solver.vi" Type="VI" URL="../Solver.vi"/>
-		<Item Name="Solver_002.vi" Type="VI" URL="../Solver_002.vi"/>
 		<Item Name="TestWordSearch.vi" Type="VI" URL="../TestWordSearch.vi"/>
 		<Item Name="ToUppercase.vi" Type="VI" URL="../support/ToUppercase.vi"/>
 		<Item Name="Word Search - mod.vi" Type="VI" URL="../support/Word Search - mod.vi"/>
