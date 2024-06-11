@@ -30,6 +30,7 @@
 		</Item>
 		<Item Name="Solver Selector.ctl" Type="VI" URL="../support/Solver Selector.ctl"/>
 		<Item Name="Solver.vi" Type="VI" URL="../Solver.vi"/>
+		<Item Name="Solver_005.vi" Type="VI" URL="../support/Solver_005.vi"/>
 		<Item Name="TestWordSearch.vi" Type="VI" URL="../TestWordSearch.vi"/>
 		<Item Name="ToUppercase.vi" Type="VI" URL="../support/ToUppercase.vi"/>
 		<Item Name="Word Search - mod.vi" Type="VI" URL="../support/Word Search - mod.vi"/>
