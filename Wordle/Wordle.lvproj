@@ -22,6 +22,7 @@
 			<Item Name="Test Wordle.vi" Type="VI" URL="../Libraries/Wordle Engine/Test Wordle.vi"/>
 		</Item>
 		<Item Name="Readme.md" Type="Document" URL="../Readme.md"/>
+		<Item Name="Solver2.vi" Type="VI" URL="../Solvers/Solver2.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="1D String Array to Delimited String.vi" Type="VI" URL="/&lt;vilib&gt;/AdvancedString/1D String Array to Delimited String.vi"/>
